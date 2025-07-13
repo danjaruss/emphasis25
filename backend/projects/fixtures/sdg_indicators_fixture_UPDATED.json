@@ -1,0 +1,2763 @@
+[
+  {
+    "model": "projects.sdgindicator",
+    "pk": 1,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.1",
+      "indicator_number": "1.1.1",
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
+      "description": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 2,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.2",
+      "indicator_number": "1.2.1",
+      "title": "Proportion of population living below the national poverty line, by sex and age",
+      "description": "Proportion of population living below the national poverty line, by sex and age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 3,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.2",
+      "indicator_number": "1.2.2",
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+      "description": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 4,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.3",
+      "indicator_number": "1.3.1",
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+      "description": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 5,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.4",
+      "indicator_number": "1.4.1",
+      "title": "Proportion of population living in households with access to basic services",
+      "description": "Proportion of population living in households with access to basic services"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 6,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.4",
+      "indicator_number": "1.4.2",
+      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
+      "description": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 7,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.5",
+      "indicator_number": "1.5.1",
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+      "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 8,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.5",
+      "indicator_number": "1.5.2",
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
+      "description": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 9,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.5",
+      "indicator_number": "1.5.3",
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030",
+      "description": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 10,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.5",
+      "indicator_number": "1.5.4",
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
+      "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 11,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.a",
+      "indicator_number": "1.a.1",
+      "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country\u2019s gross national income",
+      "description": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country\u2019s gross national income"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 12,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.a",
+      "indicator_number": "1.a.2",
+      "title": "Proportion of total government spending on essential services (education, health and social protection)",
+      "description": "Proportion of total government spending on essential services (education, health and social protection)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 13,
+    "fields": {
+      "goal": 1,
+      "target_number": "1.b",
+      "indicator_number": "1.b.1",
+      "title": "Pro-poor public social spending",
+      "description": "Pro-poor public social spending"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 14,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.1",
+      "indicator_number": "2.1.1",
+      "title": "Prevalence of undernourishment",
+      "description": "Prevalence of undernourishment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 15,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.1",
+      "indicator_number": "2.1.2",
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
+      "description": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 16,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.2",
+      "indicator_number": "2.2.1",
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5\u00a0years of age",
+      "description": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5\u00a0years of age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 17,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.2",
+      "indicator_number": "2.2.2",
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5\u00a0years of age, by type (wasting and overweight)",
+      "description": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5\u00a0years of age, by type (wasting and overweight)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 18,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.2",
+      "indicator_number": "2.2.3",
+      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",
+      "description": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 19,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.2",
+      "indicator_number": "2.2.4",
+      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)",
+      "description": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 20,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.3",
+      "indicator_number": "2.3.1",
+      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
+      "description": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 21,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.3",
+      "indicator_number": "2.3.2",
+      "title": "Average income of small-scale food producers, by sex and indigenous status",
+      "description": "Average income of small-scale food producers, by sex and indigenous status"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 22,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.4",
+      "indicator_number": "2.4.1",
+      "title": "Proportion of agricultural area under productive and sustainable agriculture",
+      "description": "Proportion of agricultural area under productive and sustainable agriculture"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 23,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.5",
+      "indicator_number": "2.5.1",
+      "title": "Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities",
+      "description": "Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 24,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.5",
+      "indicator_number": "2.5.2",
+      "title": "Proportion of local and transboundary breeds classified as being at risk of extinction",
+      "description": "Proportion of local and transboundary breeds classified as being at risk of extinction"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 25,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.a",
+      "indicator_number": "2.a.1",
+      "title": "The agriculture orientation index for government expenditures",
+      "description": "The agriculture orientation index for government expenditures"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 26,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.a",
+      "indicator_number": "2.a.2",
+      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector",
+      "description": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 27,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.b",
+      "indicator_number": "2.b.1",
+      "title": "Agricultural export subsidies",
+      "description": "Agricultural export subsidies"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 28,
+    "fields": {
+      "goal": 2,
+      "target_number": "2.c",
+      "indicator_number": "2.c.1",
+      "title": "Indicator of food price anomalies",
+      "description": "Indicator of food price anomalies"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 29,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.1",
+      "indicator_number": "3.1.1",
+      "title": "Maternal mortality ratio",
+      "description": "Maternal mortality ratio"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 30,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.1",
+      "indicator_number": "3.1.2",
+      "title": "Proportion of births attended by skilled health personnel",
+      "description": "Proportion of births attended by skilled health personnel"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 31,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.2",
+      "indicator_number": "3.2.1",
+      "title": "Under\u20115 mortality rate",
+      "description": "Under\u20115 mortality rate"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 32,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.2",
+      "indicator_number": "3.2.2",
+      "title": "Neonatal mortality rate",
+      "description": "Neonatal mortality rate"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 33,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.3",
+      "indicator_number": "3.3.1",
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
+      "description": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 34,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.3",
+      "indicator_number": "3.3.2",
+      "title": "Tuberculosis incidence per 100,000 population",
+      "description": "Tuberculosis incidence per 100,000 population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 35,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.3",
+      "indicator_number": "3.3.3",
+      "title": "Malaria incidence per 1,000 population",
+      "description": "Malaria incidence per 1,000 population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 36,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.3",
+      "indicator_number": "3.3.4",
+      "title": "Hepatitis B incidence per 100,000 population",
+      "description": "Hepatitis B incidence per 100,000 population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 37,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.3",
+      "indicator_number": "3.3.5",
+      "title": "Number of people requiring interventions against neglected tropical diseases",
+      "description": "Number of people requiring interventions against neglected tropical diseases"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 38,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.4",
+      "indicator_number": "3.4.1",
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+      "description": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 39,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.4",
+      "indicator_number": "3.4.2",
+      "title": "Suicide mortality rate",
+      "description": "Suicide mortality rate"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 40,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.5",
+      "indicator_number": "3.5.1",
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",
+      "description": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 41,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.5",
+      "indicator_number": "3.5.2",
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+      "description": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 42,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.6",
+      "indicator_number": "3.6.1",
+      "title": "Death rate due to road traffic injuries",
+      "description": "Death rate due to road traffic injuries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 43,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.7",
+      "indicator_number": "3.7.1",
+      "title": "Proportion of women of reproductive age (aged 15\u201349\u00a0years) who have their need for family planning satisfied with modern methods",
+      "description": "Proportion of women of reproductive age (aged 15\u201349\u00a0years) who have their need for family planning satisfied with modern methods"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 44,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.7",
+      "indicator_number": "3.7.2",
+      "title": "Adolescent birth rate (aged 10\u201314 years; aged 15\u201319\u00a0years) per 1,000 women in that age group",
+      "description": "Adolescent birth rate (aged 10\u201314 years; aged 15\u201319\u00a0years) per 1,000 women in that age group"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 45,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.8",
+      "indicator_number": "3.8.1",
+      "title": "Coverage of essential health services",
+      "description": "Coverage of essential health services"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 46,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.8",
+      "indicator_number": "3.8.2",
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income",
+      "description": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 47,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.9",
+      "indicator_number": "3.9.1",
+      "title": "Mortality rate attributed to household and ambient air pollution",
+      "description": "Mortality rate attributed to household and ambient air pollution"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 48,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.9",
+      "indicator_number": "3.9.2",
+      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
+      "description": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 49,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.9",
+      "indicator_number": "3.9.3",
+      "title": "Mortality rate attributed to unintentional poisoning",
+      "description": "Mortality rate attributed to unintentional poisoning"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 50,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.a",
+      "indicator_number": "3.a.1",
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15\u00a0years and older",
+      "description": "Age-standardized prevalence of current tobacco use among persons aged 15\u00a0years and older"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 51,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.b",
+      "indicator_number": "3.b.1",
+      "title": "Proportion of the target population covered by all vaccines included in their national programme",
+      "description": "Proportion of the target population covered by all vaccines included in their national programme"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 52,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.b",
+      "indicator_number": "3.b.2",
+      "title": "Total net official development assistance to medical research and basic health sectors",
+      "description": "Total net official development assistance to medical research and basic health sectors"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 53,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.b",
+      "indicator_number": "3.b.3",
+      "title": "Health product access index",
+      "description": "Health product access index"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 54,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.c",
+      "indicator_number": "3.c.1",
+      "title": "Health worker density and distribution",
+      "description": "Health worker density and distribution"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 55,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.d",
+      "indicator_number": "3.d.1",
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness",
+      "description": "International Health Regulations (IHR) capacity and health emergency preparedness"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 56,
+    "fields": {
+      "goal": 3,
+      "target_number": "3.d",
+      "indicator_number": "3.d.2",
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms",
+      "description": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 57,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.1",
+      "indicator_number": "4.1.1",
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
+      "description": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 58,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.1",
+      "indicator_number": "4.1.2",
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
+      "description": "Completion rate (primary education, lower secondary education, upper secondary education)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 59,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.2",
+      "indicator_number": "4.2.1",
+      "title": "Proportion of children aged 24\u201359 months who are developmentally on track in health, learning and psychosocial well-being, by sex",
+      "description": "Proportion of children aged 24\u201359 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 60,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.2",
+      "indicator_number": "4.2.2",
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
+      "description": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 61,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.3",
+      "indicator_number": "4.3.1",
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12\u00a0months, by sex",
+      "description": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12\u00a0months, by sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 62,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.4",
+      "indicator_number": "4.4.1",
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+      "description": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 63,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.5",
+      "indicator_number": "4.5.1",
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+      "description": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 64,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.6",
+      "indicator_number": "4.6.1",
+      "title": "Youth/adult literacy rate",
+      "description": "Youth/adult literacy rate"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 65,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.7",
+      "indicator_number": "4.7.1",
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+      "description": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 66,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.a",
+      "indicator_number": "4.a.1",
+      "title": "Proportion of schools offering basic services, by type of service",
+      "description": "Proportion of schools offering basic services, by type of service"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 67,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.b",
+      "indicator_number": "4.b.1",
+      "title": "Volume of official development assistance flows for scholarships",
+      "description": "Volume of official development assistance flows for scholarships"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 68,
+    "fields": {
+      "goal": 4,
+      "target_number": "4.c",
+      "indicator_number": "4.c.1",
+      "title": "Proportion of teachers with the minimum required qualifications, by education level",
+      "description": "Proportion of teachers with the minimum required qualifications, by education level"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 69,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.1",
+      "indicator_number": "5.1.1",
+      "title": "Whether or not legal frameworks are in place to\u00a0promote, enforce and monitor equality and non\u2011discrimination on the basis of sex",
+      "description": "Whether or not legal frameworks are in place to\u00a0promote, enforce and monitor equality and non\u2011discrimination on the basis of sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 70,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.2",
+      "indicator_number": "5.2.1",
+      "title": "Proportion of ever-partnered women and girls aged 15\u00a0years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
+      "description": "Proportion of ever-partnered women and girls aged 15\u00a0years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 71,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.2",
+      "indicator_number": "5.2.2",
+      "title": "Proportion of women and girls aged 15\u00a0years and older subjected to sexual violence by persons other than an\u00a0intimate partner in the previous 12\u00a0months, by age and place of occurrence",
+      "description": "Proportion of women and girls aged 15\u00a0years and older subjected to sexual violence by persons other than an\u00a0intimate partner in the previous 12\u00a0months, by age and place of occurrence"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 72,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.3",
+      "indicator_number": "5.3.1",
+      "title": "Proportion of women aged 20\u201324\u00a0years who were married or in a union before age 15 and before age 18",
+      "description": "Proportion of women aged 20\u201324\u00a0years who were married or in a union before age 15 and before age 18"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 73,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.3",
+      "indicator_number": "5.3.2",
+      "title": "Proportion of girls and women aged 15\u201349 years who have undergone female genital mutilation, by age",
+      "description": "Proportion of girls and women aged 15\u201349 years who have undergone female genital mutilation, by age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 74,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.4",
+      "indicator_number": "5.4.1",
+      "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+      "description": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 75,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.5",
+      "indicator_number": "5.5.1",
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments",
+      "description": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 76,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.5",
+      "indicator_number": "5.5.2",
+      "title": "Proportion of women in managerial positions",
+      "description": "Proportion of women in managerial positions"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 77,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.6",
+      "indicator_number": "5.6.1",
+      "title": "Proportion of women aged 15\u201349\u00a0years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+      "description": "Proportion of women aged 15\u201349\u00a0years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 78,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.6",
+      "indicator_number": "5.6.2",
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15\u00a0years and older to sexual and reproductive health care, information and education",
+      "description": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15\u00a0years and older to sexual and reproductive health care, information and education"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 79,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.a",
+      "indicator_number": "5.a.1",
+      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",
+      "description": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 80,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.a",
+      "indicator_number": "5.a.2",
+      "title": "Proportion of countries where the legal framework (including customary law) guarantees women\u2019s equal rights to land ownership and/or control",
+      "description": "Proportion of countries where the legal framework (including customary law) guarantees women\u2019s equal rights to land ownership and/or control"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 81,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.b",
+      "indicator_number": "5.b.1",
+      "title": "Proportion of individuals who own a mobile telephone, by sex",
+      "description": "Proportion of individuals who own a mobile telephone, by sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 82,
+    "fields": {
+      "goal": 5,
+      "target_number": "5.c",
+      "indicator_number": "5.c.1",
+      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women\u2019s empowerment",
+      "description": "Proportion of countries with systems to track and make public allocations for gender equality and women\u2019s empowerment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 83,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.1",
+      "indicator_number": "6.1.1",
+      "title": "Proportion of population using safely managed drinking water services",
+      "description": "Proportion of population using safely managed drinking water services"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 84,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.2",
+      "indicator_number": "6.2.1",
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water",
+      "description": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 85,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.3",
+      "indicator_number": "6.3.1",
+      "title": "Proportion of domestic and industrial wastewater flows safely treated",
+      "description": "Proportion of domestic and industrial wastewater flows safely treated"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 86,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.3",
+      "indicator_number": "6.3.2",
+      "title": "Proportion of bodies of water with good ambient water quality",
+      "description": "Proportion of bodies of water with good ambient water quality"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 87,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.4",
+      "indicator_number": "6.4.1",
+      "title": "Change in water-use efficiency over time",
+      "description": "Change in water-use efficiency over time"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 88,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.4",
+      "indicator_number": "6.4.2",
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+      "description": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 89,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.5",
+      "indicator_number": "6.5.1",
+      "title": "Degree of integrated water resources management",
+      "description": "Degree of integrated water resources management"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 90,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.5",
+      "indicator_number": "6.5.2",
+      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation",
+      "description": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 91,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.6",
+      "indicator_number": "6.6.1",
+      "title": "Change in the extent of water-related ecosystems over time",
+      "description": "Change in the extent of water-related ecosystems over time"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 92,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.a",
+      "indicator_number": "6.a.1",
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
+      "description": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 93,
+    "fields": {
+      "goal": 6,
+      "target_number": "6.b",
+      "indicator_number": "6.b.1",
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management",
+      "description": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 94,
+    "fields": {
+      "goal": 7,
+      "target_number": "7.1",
+      "indicator_number": "7.1.1",
+      "title": "Proportion of population with access to electricity",
+      "description": "Proportion of population with access to electricity"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 95,
+    "fields": {
+      "goal": 7,
+      "target_number": "7.1",
+      "indicator_number": "7.1.2",
+      "title": "Proportion of population with primary reliance on clean fuels and technology",
+      "description": "Proportion of population with primary reliance on clean fuels and technology"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 96,
+    "fields": {
+      "goal": 7,
+      "target_number": "7.2",
+      "indicator_number": "7.2.1",
+      "title": "Renewable energy share in the total final energy consumption",
+      "description": "Renewable energy share in the total final energy consumption"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 97,
+    "fields": {
+      "goal": 7,
+      "target_number": "7.3",
+      "indicator_number": "7.3.1",
+      "title": "Energy intensity measured in terms of primary energy and GDP",
+      "description": "Energy intensity measured in terms of primary energy and GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 98,
+    "fields": {
+      "goal": 7,
+      "target_number": "7.a",
+      "indicator_number": "7.a.1",
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
+      "description": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 99,
+    "fields": {
+      "goal": 7,
+      "target_number": "7.b",
+      "indicator_number": "7.b.1",
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)",
+      "description": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 100,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.1",
+      "indicator_number": "8.1.1",
+      "title": "Annual growth rate of real GDP per capita",
+      "description": "Annual growth rate of real GDP per capita"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 101,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.2",
+      "indicator_number": "8.2.1",
+      "title": "Annual growth rate of real GDP per employed person",
+      "description": "Annual growth rate of real GDP per employed person"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 102,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.3",
+      "indicator_number": "8.3.1",
+      "title": "Proportion of informal employment in total employment, by sector and sex",
+      "description": "Proportion of informal employment in total employment, by sector and sex"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 103,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.4",
+      "indicator_number": "8.4.1",
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP",
+      "description": "Material footprint, material footprint per capita, and material footprint per GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 104,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.4",
+      "indicator_number": "8.4.2",
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+      "description": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 105,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.5",
+      "indicator_number": "8.5.1",
+      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",
+      "description": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 106,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.5",
+      "indicator_number": "8.5.2",
+      "title": "Unemployment rate, by sex, age and persons with disabilities",
+      "description": "Unemployment rate, by sex, age and persons with disabilities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 107,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.6",
+      "indicator_number": "8.6.1",
+      "title": "Proportion of youth (aged 15\u201324\u00a0years) not in education, employment or training",
+      "description": "Proportion of youth (aged 15\u201324\u00a0years) not in education, employment or training"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 108,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.7",
+      "indicator_number": "8.7.1",
+      "title": "Proportion and number of children aged 5\u201317\u00a0years engaged in child labour, by sex and age",
+      "description": "Proportion and number of children aged 5\u201317\u00a0years engaged in child labour, by sex and age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 109,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.8",
+      "indicator_number": "8.8.1",
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",
+      "description": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 110,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.8",
+      "indicator_number": "8.8.2",
+      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",
+      "description": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 111,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.9",
+      "indicator_number": "8.9.1",
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
+      "description": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 112,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.9",
+      "indicator_number": "8.9.2",
+      "title": "Employed persons in the tourism industries",
+      "description": "Employed persons in the tourism industries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 113,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.10",
+      "indicator_number": "8.10.1",
+      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
+      "description": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 114,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.10",
+      "indicator_number": "8.10.2",
+      "title": "Proportion of adults (15\u00a0years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
+      "description": "Proportion of adults (15\u00a0years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 115,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.a",
+      "indicator_number": "8.a.1",
+      "title": "Aid for Trade commitments and disbursements",
+      "description": "Aid for Trade commitments and disbursements"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 116,
+    "fields": {
+      "goal": 8,
+      "target_number": "8.b",
+      "indicator_number": "8.b.1",
+      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
+      "description": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 117,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.1",
+      "indicator_number": "9.1.1",
+      "title": "Proportion of the rural population who live within 2\u00a0km of an all-season road",
+      "description": "Proportion of the rural population who live within 2\u00a0km of an all-season road"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 118,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.1",
+      "indicator_number": "9.1.2",
+      "title": "Passenger and freight volumes, by mode of transport",
+      "description": "Passenger and freight volumes, by mode of transport"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 119,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.2",
+      "indicator_number": "9.2.1",
+      "title": "Manufacturing value added as a proportion of GDP and per capita",
+      "description": "Manufacturing value added as a proportion of GDP and per capita"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 120,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.2",
+      "indicator_number": "9.2.2",
+      "title": "Manufacturing employment as a proportion of total employment",
+      "description": "Manufacturing employment as a proportion of total employment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 121,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.3",
+      "indicator_number": "9.3.1",
+      "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications",
+      "description": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 122,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.3",
+      "indicator_number": "9.3.2",
+      "title": "Proportion of small-scale industries with a loan or line of credit",
+      "description": "Proportion of small-scale industries with a loan or line of credit"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 123,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.4",
+      "indicator_number": "9.4.1",
+      "title": "CO2 emission per unit of value added",
+      "description": "CO2 emission per unit of value added"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 124,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.5",
+      "indicator_number": "9.5.1",
+      "title": "Research and development expenditure as a proportion of GDP",
+      "description": "Research and development expenditure as a proportion of GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 125,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.5",
+      "indicator_number": "9.5.2",
+      "title": "Researchers (in full-time equivalent) per million inhabitants",
+      "description": "Researchers (in full-time equivalent) per million inhabitants"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 126,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.a",
+      "indicator_number": "9.a.1",
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure",
+      "description": "Total official international support (official development assistance plus other official flows) to infrastructure"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 127,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.b",
+      "indicator_number": "9.b.1",
+      "title": "Proportion of medium and high-tech industry value added in total value added",
+      "description": "Proportion of medium and high-tech industry value added in total value added"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 128,
+    "fields": {
+      "goal": 9,
+      "target_number": "9.c",
+      "indicator_number": "9.c.1",
+      "title": "Proportion of population covered by a mobile network, by technology",
+      "description": "Proportion of population covered by a mobile network, by technology"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 129,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.1",
+      "indicator_number": "10.1.1",
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40\u00a0per\u00a0cent of the population and the total population",
+      "description": "Growth rates of household expenditure or income per capita among the bottom 40\u00a0per\u00a0cent of the population and the total population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 130,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.2",
+      "indicator_number": "10.2.1",
+      "title": "Proportion of people living below 50\u00a0per\u00a0cent of median income, by sex, age and persons with disabilities",
+      "description": "Proportion of people living below 50\u00a0per\u00a0cent of median income, by sex, age and persons with disabilities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 131,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.3",
+      "indicator_number": "10.3.1",
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights\u00a0law",
+      "description": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights\u00a0law"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 132,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.4",
+      "indicator_number": "10.4.1",
+      "title": "Labour share of GDP",
+      "description": "Labour share of GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 133,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.4",
+      "indicator_number": "10.4.2",
+      "title": "Redistributive impact of fiscal policy on the Gini index",
+      "description": "Redistributive impact of fiscal policy on the Gini index"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 134,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.5",
+      "indicator_number": "10.5.1",
+      "title": "Financial Soundness Indicators",
+      "description": "Financial Soundness Indicators"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 135,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.6",
+      "indicator_number": "10.6.1",
+      "title": "Proportion of members and voting rights of developing countries in international organizations",
+      "description": "Proportion of members and voting rights of developing countries in international organizations"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 136,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.7",
+      "indicator_number": "10.7.1",
+      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination",
+      "description": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 137,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.7",
+      "indicator_number": "10.7.2",
+      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",
+      "description": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 138,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.7",
+      "indicator_number": "10.7.3",
+      "title": "Number of people who died or disappeared in the process of migration towards an international destination",
+      "description": "Number of people who died or disappeared in the process of migration towards an international destination"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 139,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.7",
+      "indicator_number": "10.7.4",
+      "title": "Proportion of the population who are refugees, by country of origin",
+      "description": "Proportion of the population who are refugees, by country of origin"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 140,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.a",
+      "indicator_number": "10.a.1",
+      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
+      "description": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 141,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.b",
+      "indicator_number": "10.b.1",
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)",
+      "description": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 142,
+    "fields": {
+      "goal": 10,
+      "target_number": "10.c",
+      "indicator_number": "10.c.1",
+      "title": "Remittance costs as a proportion of the amount remitted",
+      "description": "Remittance costs as a proportion of the amount remitted"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 143,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.1",
+      "indicator_number": "11.1.1",
+      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
+      "description": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 144,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.2",
+      "indicator_number": "11.2.1",
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
+      "description": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 145,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.3",
+      "indicator_number": "11.3.1",
+      "title": "Ratio of land consumption rate to population growth rate",
+      "description": "Ratio of land consumption rate to population growth rate"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 146,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.3",
+      "indicator_number": "11.3.2",
+      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
+      "description": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 147,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.4",
+      "indicator_number": "11.4.1",
+      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",
+      "description": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 148,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.5",
+      "indicator_number": "11.5.1",
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+      "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 149,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.5",
+      "indicator_number": "11.5.2",
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
+      "description": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 150,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.5",
+      "indicator_number": "11.5.3",
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters",
+      "description": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 151,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.6",
+      "indicator_number": "11.6.1",
+      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",
+      "description": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 152,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.6",
+      "indicator_number": "11.6.2",
+      "title": "Annual mean levels of fine particulate matter (e.g.\u00a0PM2.5 and PM10) in cities (population weighted)",
+      "description": "Annual mean levels of fine particulate matter (e.g.\u00a0PM2.5 and PM10) in cities (population weighted)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 153,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.7",
+      "indicator_number": "11.7.1",
+      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",
+      "description": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 154,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.7",
+      "indicator_number": "11.7.2",
+      "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",
+      "description": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 155,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.a",
+      "indicator_number": "11.a.1",
+      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space",
+      "description": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 156,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.b",
+      "indicator_number": "11.b.1",
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030",
+      "description": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 157,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.b",
+      "indicator_number": "11.b.2",
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
+      "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 158,
+    "fields": {
+      "goal": 11,
+      "target_number": "11.c",
+      "indicator_number": "11.c.1",
+      "title": "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector",
+      "description": "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 159,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.1",
+      "indicator_number": "12.1.1",
+      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",
+      "description": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 160,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.2",
+      "indicator_number": "12.2.1",
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP",
+      "description": "Material footprint, material footprint per capita, and material footprint per GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 161,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.2",
+      "indicator_number": "12.2.2",
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+      "description": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 162,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.3",
+      "indicator_number": "12.3.1",
+      "title": "(a) Food loss index and (b) food waste index",
+      "description": "(a) Food loss index and (b) food waste index"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 163,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.4",
+      "indicator_number": "12.4.1",
+      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
+      "description": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 164,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.4",
+      "indicator_number": "12.4.2",
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
+      "description": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 165,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.5",
+      "indicator_number": "12.5.1",
+      "title": "National recycling rate, tons of material recycled",
+      "description": "National recycling rate, tons of material recycled"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 166,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.6",
+      "indicator_number": "12.6.1",
+      "title": "Number of companies publishing sustainability reports",
+      "description": "Number of companies publishing sustainability reports"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 167,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.7",
+      "indicator_number": "12.7.1",
+      "title": "Number of countries implementing sustainable public procurement policies and action plans",
+      "description": "Number of countries implementing sustainable public procurement policies and action plans"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 168,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.8",
+      "indicator_number": "12.8.1",
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+      "description": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 169,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.a",
+      "indicator_number": "12.a.1",
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)",
+      "description": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 170,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.b",
+      "indicator_number": "12.b.1",
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability",
+      "description": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 171,
+    "fields": {
+      "goal": 12,
+      "target_number": "12.c",
+      "indicator_number": "12.c.1",
+      "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP",
+      "description": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 172,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.1",
+      "indicator_number": "13.1.1",
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+      "description": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 173,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.1",
+      "indicator_number": "13.1.2",
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030",
+      "description": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 174,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.1",
+      "indicator_number": "13.1.3",
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
+      "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 175,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.2",
+      "indicator_number": "13.2.1",
+      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",
+      "description": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 176,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.2",
+      "indicator_number": "13.2.2",
+      "title": "Total greenhouse gas emissions per year",
+      "description": "Total greenhouse gas emissions per year"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 177,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.3",
+      "indicator_number": "13.3.1",
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+      "description": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 178,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.a",
+      "indicator_number": "13.a.1",
+      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025",
+      "description": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 179,
+    "fields": {
+      "goal": 13,
+      "target_number": "13.b",
+      "indicator_number": "13.b.1",
+      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",
+      "description": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 180,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.1",
+      "indicator_number": "14.1.1",
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density",
+      "description": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 181,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.2",
+      "indicator_number": "14.2.1",
+      "title": "Number of countries using ecosystem-based approaches to managing marine areas",
+      "description": "Number of countries using ecosystem-based approaches to managing marine areas"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 182,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.3",
+      "indicator_number": "14.3.1",
+      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
+      "description": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 183,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.4",
+      "indicator_number": "14.4.1",
+      "title": "Proportion of fish stocks within biologically sustainable levels",
+      "description": "Proportion of fish stocks within biologically sustainable levels"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 184,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.5",
+      "indicator_number": "14.5.1",
+      "title": "Coverage of protected areas in relation to marine areas",
+      "description": "Coverage of protected areas in relation to marine areas"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 185,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.6",
+      "indicator_number": "14.6.1",
+      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
+      "description": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 186,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.7",
+      "indicator_number": "14.7.1",
+      "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",
+      "description": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 187,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.a",
+      "indicator_number": "14.a.1",
+      "title": "Proportion of total research budget allocated to research in the field of marine technology",
+      "description": "Proportion of total research budget allocated to research in the field of marine technology"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 188,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.b",
+      "indicator_number": "14.b.1",
+      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries",
+      "description": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 189,
+    "fields": {
+      "goal": 14,
+      "target_number": "14.c",
+      "indicator_number": "14.c.1",
+      "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",
+      "description": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 190,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.1",
+      "indicator_number": "15.1.1",
+      "title": "Forest area as a proportion of total land area",
+      "description": "Forest area as a proportion of total land area"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 191,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.1",
+      "indicator_number": "15.1.2",
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
+      "description": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 192,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.2",
+      "indicator_number": "15.2.1",
+      "title": "Progress towards sustainable forest management",
+      "description": "Progress towards sustainable forest management"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 193,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.3",
+      "indicator_number": "15.3.1",
+      "title": "Proportion of land that is degraded over total land area",
+      "description": "Proportion of land that is degraded over total land area"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 194,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.4",
+      "indicator_number": "15.4.1",
+      "title": "Coverage by protected areas of important sites for mountain biodiversity",
+      "description": "Coverage by protected areas of important sites for mountain biodiversity"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 195,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.4",
+      "indicator_number": "15.4.2",
+      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land",
+      "description": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 196,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.5",
+      "indicator_number": "15.5.1",
+      "title": "Red List Index",
+      "description": "Red List Index"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 197,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.6",
+      "indicator_number": "15.6.1",
+      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",
+      "description": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 198,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.7",
+      "indicator_number": "15.7.1",
+      "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
+      "description": "Proportion of traded wildlife that was poached or illicitly trafficked"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 199,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.8",
+      "indicator_number": "15.8.1",
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species",
+      "description": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 200,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.9",
+      "indicator_number": "15.9.1",
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting",
+      "description": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 201,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.a",
+      "indicator_number": "15.a.1",
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
+      "description": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 202,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.b",
+      "indicator_number": "15.b.1",
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
+      "description": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 203,
+    "fields": {
+      "goal": 15,
+      "target_number": "15.c",
+      "indicator_number": "15.c.1",
+      "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
+      "description": "Proportion of traded wildlife that was poached or illicitly trafficked"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 204,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.1",
+      "indicator_number": "16.1.1",
+      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age",
+      "description": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 205,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.1",
+      "indicator_number": "16.1.2",
+      "title": "Conflict-related deaths per 100,000 population, by sex, age and cause",
+      "description": "Conflict-related deaths per 100,000 population, by sex, age and cause"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 206,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.1",
+      "indicator_number": "16.1.3",
+      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",
+      "description": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 207,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.1",
+      "indicator_number": "16.1.4",
+      "title": "Proportion of population that feel safe walking alone around the area they live after dark",
+      "description": "Proportion of population that feel safe walking alone around the area they live after dark"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 208,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.2",
+      "indicator_number": "16.2.1",
+      "title": "Proportion of children aged 1\u201317\u00a0years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
+      "description": "Proportion of children aged 1\u201317\u00a0years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 209,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.2",
+      "indicator_number": "16.2.2",
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",
+      "description": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 210,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.2",
+      "indicator_number": "16.2.3",
+      "title": "Proportion of young women and men aged 18\u201329\u00a0years who experienced sexual violence by age\u00a018",
+      "description": "Proportion of young women and men aged 18\u201329\u00a0years who experienced sexual violence by age\u00a018"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 211,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.3",
+      "indicator_number": "16.3.1",
+      "title": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12\u00a0months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
+      "description": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12\u00a0months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 212,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.3",
+      "indicator_number": "16.3.2",
+      "title": "Unsentenced detainees as a proportion of overall prison population",
+      "description": "Unsentenced detainees as a proportion of overall prison population"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 213,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.3",
+      "indicator_number": "16.3.3",
+      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",
+      "description": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 214,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.4",
+      "indicator_number": "16.4.1",
+      "title": "Total value of inward and outward illicit financial flows (in current United States dollars)",
+      "description": "Total value of inward and outward illicit financial flows (in current United States dollars)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 215,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.4",
+      "indicator_number": "16.4.2",
+      "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
+      "description": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 216,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.5",
+      "indicator_number": "16.5.1",
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12\u00a0months",
+      "description": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12\u00a0months"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 217,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.5",
+      "indicator_number": "16.5.2",
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12\u00a0months",
+      "description": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12\u00a0months"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 218,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.6",
+      "indicator_number": "16.6.1",
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
+      "description": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 219,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.6",
+      "indicator_number": "16.6.2",
+      "title": "Proportion of population satisfied with their last experience of public services",
+      "description": "Proportion of population satisfied with their last experience of public services"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 220,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.7",
+      "indicator_number": "16.7.1",
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",
+      "description": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 221,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.7",
+      "indicator_number": "16.7.2",
+      "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",
+      "description": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 222,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.8",
+      "indicator_number": "16.8.1",
+      "title": "Proportion of members and voting rights of developing countries in international organizations",
+      "description": "Proportion of members and voting rights of developing countries in international organizations"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 223,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.9",
+      "indicator_number": "16.9.1",
+      "title": "Proportion of children under 5\u00a0years of age whose births have been registered with a civil authority, by age",
+      "description": "Proportion of children under 5\u00a0years of age whose births have been registered with a civil authority, by age"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 224,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.10",
+      "indicator_number": "16.10.1",
+      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12\u00a0months",
+      "description": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12\u00a0months"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 225,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.10",
+      "indicator_number": "16.10.2",
+      "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
+      "description": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 226,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.a",
+      "indicator_number": "16.a.1",
+      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles",
+      "description": "Existence of independent national human rights institutions in compliance with the Paris Principles"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 227,
+    "fields": {
+      "goal": 16,
+      "target_number": "16.b",
+      "indicator_number": "16.b.1",
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+      "description": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 228,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.1",
+      "indicator_number": "17.1.1",
+      "title": "Total government revenue as a proportion of GDP, by source",
+      "description": "Total government revenue as a proportion of GDP, by source"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 229,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.1",
+      "indicator_number": "17.1.2",
+      "title": "Proportion of domestic budget funded by domestic taxes",
+      "description": "Proportion of domestic budget funded by domestic taxes"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 230,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.2",
+      "indicator_number": "17.2.1",
+      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors\u2019 gross national income (GNI)",
+      "description": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors\u2019 gross national income (GNI)"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 231,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.3",
+      "indicator_number": "17.3.1",
+      "title": "Additional financial resources mobilized for developing countries from multiple sources",
+      "description": "Additional financial resources mobilized for developing countries from multiple sources"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 232,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.3",
+      "indicator_number": "17.3.2",
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP",
+      "description": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 233,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.4",
+      "indicator_number": "17.4.1",
+      "title": "Debt service as a proportion of exports of goods, services and primary income",
+      "description": "Debt service as a proportion of exports of goods, services and primary income"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 234,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.5",
+      "indicator_number": "17.5.1",
+      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",
+      "description": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 235,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.6",
+      "indicator_number": "17.6.1",
+      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed4",
+      "description": "Fixed broadband subscriptions per 100 inhabitants, by speed4"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 236,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.7",
+      "indicator_number": "17.7.1",
+      "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",
+      "description": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 237,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.8",
+      "indicator_number": "17.8.1",
+      "title": "Proportion of individuals using the Internet",
+      "description": "Proportion of individuals using the Internet"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 238,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.9",
+      "indicator_number": "17.9.1",
+      "title": "Dollar value of official development assistance committed to developing countries",
+      "description": "Dollar value of official development assistance committed to developing countries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 239,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.10",
+      "indicator_number": "17.10.1",
+      "title": "Worldwide weighted tariff-average",
+      "description": "Worldwide weighted tariff-average"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 240,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.11",
+      "indicator_number": "17.11.1",
+      "title": "Developing countries\u2019 and least developed countries\u2019 share of global exports",
+      "description": "Developing countries\u2019 and least developed countries\u2019 share of global exports"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 241,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.12",
+      "indicator_number": "17.12.1",
+      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States",
+      "description": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 242,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.13",
+      "indicator_number": "17.13.1",
+      "title": "Macroeconomic Dashboard",
+      "description": "Macroeconomic Dashboard"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 243,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.14",
+      "indicator_number": "17.14.1",
+      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development",
+      "description": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 244,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.15",
+      "indicator_number": "17.15.1",
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation",
+      "description": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 245,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.16",
+      "indicator_number": "17.16.1",
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals",
+      "description": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 246,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.17",
+      "indicator_number": "17.17.1",
+      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure",
+      "description": "Amount in United States dollars committed to public-private partnerships for infrastructure"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 247,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.18",
+      "indicator_number": "17.18.1",
+      "title": "Statistical capacity indicators",
+      "description": "Statistical capacity indicators"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 248,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.18",
+      "indicator_number": "17.18.2",
+      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics",
+      "description": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 249,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.18",
+      "indicator_number": "17.18.3",
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
+      "description": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 250,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.19",
+      "indicator_number": "17.19.1",
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
+      "description": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
+    }
+  },
+  {
+    "model": "projects.sdgindicator",
+    "pk": 251,
+    "fields": {
+      "goal": 17,
+      "target_number": "17.19",
+      "indicator_number": "17.19.2",
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10\u00a0years; and (b) have achieved 100\u00a0per\u00a0cent birth registration and 80\u00a0per\u00a0cent death registration",
+      "description": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10\u00a0years; and (b) have achieved 100\u00a0per\u00a0cent birth registration and 80\u00a0per\u00a0cent death registration"
+    }
+  }
+]

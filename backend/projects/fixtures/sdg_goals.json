@@ -1,0 +1,189 @@
+[
+  {
+    "model": "projects.sdggoal",
+    "pk": 1,
+    "fields": {
+      "number": 1,
+      "title": "End poverty in all its forms everywhere",
+      "shortened_title": "No Poverty",
+      "color": "bg-red-500",
+      "description": "End poverty in all its forms everywhere"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 2,
+    "fields": {
+      "number": 2,
+      "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+      "shortened_title": "Zero Hunger",
+      "color": "bg-yellow-500",
+      "description": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 3,
+    "fields": {
+      "number": 3,
+      "title": "Ensure healthy lives and promote well-being for all at all ages",
+      "shortened_title": "Good Health",
+      "color": "bg-green-500",
+      "description": "Ensure healthy lives and promote well-being for all at all ages"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 4,
+    "fields": {
+      "number": 4,
+      "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+      "shortened_title": "Quality Education",
+      "color": "bg-red-600",
+      "description": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 5,
+    "fields": {
+      "number": 5,
+      "title": "Achieve gender equality and empower all women and girls",
+      "shortened_title": "Gender Equality",
+      "color": "bg-orange-500",
+      "description": "Achieve gender equality and empower all women and girls"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 6,
+    "fields": {
+      "number": 6,
+      "title": "Ensure availability and sustainable management of water and sanitation for all",
+      "shortened_title": "Clean Water",
+      "color": "bg-blue-500",
+      "description": "Ensure availability and sustainable management of water and sanitation for all"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 7,
+    "fields": {
+      "number": 7,
+      "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
+      "shortened_title": "Clean Energy",
+      "color": "bg-yellow-600",
+      "description": "Ensure access to affordable, reliable, sustainable and modern energy for all"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 8,
+    "fields": {
+      "number": 8,
+      "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+      "shortened_title": "Decent Work",
+      "color": "bg-red-700",
+      "description": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 9,
+    "fields": {
+      "number": 9,
+      "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+      "shortened_title": "Innovation",
+      "color": "bg-orange-600",
+      "description": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 10,
+    "fields": {
+      "number": 10,
+      "title": "Reduce inequality within and among countries",
+      "shortened_title": "Reduced Inequalities",
+      "color": "bg-pink-500",
+      "description": "Reduce inequality within and among countries"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 11,
+    "fields": {
+      "number": 11,
+      "title": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+      "shortened_title": "Sustainable Cities",
+      "color": "bg-orange-500",
+      "description": "Make cities and human settlements inclusive, safe, resilient and sustainable"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 12,
+    "fields": {
+      "number": 12,
+      "title": "Ensure sustainable consumption and production patterns",
+      "shortened_title": "Responsible Consumption",
+      "color": "bg-yellow-700",
+      "description": "Ensure sustainable consumption and production patterns"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 13,
+    "fields": {
+      "number": 13,
+      "title": "Take urgent action to combat climate change and its impacts",
+      "shortened_title": "Climate Action",
+      "color": "bg-green-600",
+      "description": "Take urgent action to combat climate change and its impacts"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 14,
+    "fields": {
+      "number": 14,
+      "title": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+      "shortened_title": "Life Below Water",
+      "color": "bg-blue-600",
+      "description": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 15,
+    "fields": {
+      "number": 15,
+      "title": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+      "shortened_title": "Life on Land",
+      "color": "bg-green-700",
+      "description": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 16,
+    "fields": {
+      "number": 16,
+      "title": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+      "shortened_title": "Peace & Justice",
+      "color": "bg-blue-700",
+      "description": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
+    }
+  },
+  {
+    "model": "projects.sdggoal",
+    "pk": 17,
+    "fields": {
+      "number": 17,
+      "title": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+      "shortened_title": "Partnerships",
+      "color": "bg-blue-800",
+      "description": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development"
+    }
+  }
+]

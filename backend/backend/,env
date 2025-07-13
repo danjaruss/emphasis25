@@ -1,0 +1,11 @@
+# Django settings
+DEBUG=True
+SECRET_KEY="django-insecure-l$)fj2td31a!2#u20yc^yju)+#=053h2p_d2ic(n@%gql05p+*"
+ALLOWED_HOSTS=localhost,127.0.0.1
+
+# Database settings
+DB_NAME="emphasis_db"
+DB_USER="ecaribbean"
+DB_PASSWORD="Wukkalis$_869"
+DB_HOST=127.0.0.1
+DB_PORT=""

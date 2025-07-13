@@ -1,0 +1,12 @@
+{
+    "name": "sdg-project-management",
+    "scripts": {
+      "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+      "dev:frontend": "cd frontend && npm run dev",
+      "dev:backend": "cd backend && python manage.py runserver",
+      "install:all": "cd frontend && npm install && cd ../backend && pip install -r requirements.txt"
+    },
+    "devDependencies": {
+      "concurrently": "^7.6.0"
+    }
+  }

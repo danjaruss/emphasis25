@@ -1,0 +1,12 @@
+[
+  {"model": "assessments.riskfactor", "pk": 1, "fields": {"label": "Climate Change Impacts"}},
+  {"model": "assessments.riskfactor", "pk": 2, "fields": {"label": "Technical Challenges"}},
+  {"model": "assessments.riskfactor", "pk": 3, "fields": {"label": "Regulatory Delays"}},
+  {"model": "assessments.riskfactor", "pk": 4, "fields": {"label": "Political Instability"}},
+  {"model": "assessments.riskfactor", "pk": 5, "fields": {"label": "Capacity Constraints"}},
+  {"model": "assessments.riskfactor", "pk": 6, "fields": {"label": "Funding Shortfalls"}},
+  {"model": "assessments.riskfactor", "pk": 7, "fields": {"label": "Community Resistance"}},
+  {"model": "assessments.riskfactor", "pk": 8, "fields": {"label": "Environmental Concerns"}},
+  {"model": "assessments.riskfactor", "pk": 9, "fields": {"label": "Supply Chain Issues"}},
+  {"model": "assessments.riskfactor", "pk": 10, "fields": {"label": "External Dependencies"}}
+]

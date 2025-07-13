@@ -1,0 +1,12 @@
+[
+  {"model": "projects.fundingsource", "pk": 1, "fields": {"label": "Government Budget"}},
+  {"model": "projects.fundingsource", "pk": 2, "fields": {"label": "Green Climate Fund"}},
+  {"model": "projects.fundingsource", "pk": 3, "fields": {"label": "EU Funding"}},
+  {"model": "projects.fundingsource", "pk": 4, "fields": {"label": "Community Contributions"}},
+  {"model": "projects.fundingsource", "pk": 5, "fields": {"label": "International Donors"}},
+  {"model": "projects.fundingsource", "pk": 6, "fields": {"label": "World Bank"}},
+  {"model": "projects.fundingsource", "pk": 7, "fields": {"label": "UN Agencies"}},
+  {"model": "projects.fundingsource", "pk": 8, "fields": {"label": "Private Investment"}},
+  {"model": "projects.fundingsource", "pk": 9, "fields": {"label": "Asian Development Bank"}},
+  {"model": "projects.fundingsource", "pk": 10, "fields": {"label": "NGO Partnerships"}}
+]

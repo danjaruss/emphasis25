@@ -1,0 +1,10 @@
+[
+  {"model": "stakeholders.stakeholdercategory", "pk": 1, "fields": {"name": "Government Agencies"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 2, "fields": {"name": "Private Sector"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 3, "fields": {"name": "Technical Experts"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 4, "fields": {"name": "Local Communities"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 5, "fields": {"name": "NGOs"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 6, "fields": {"name": "Community Leaders"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 7, "fields": {"name": "International Partners"}},
+  {"model": "stakeholders.stakeholdercategory", "pk": 8, "fields": {"name": "Academic Institutions"}}
+]
